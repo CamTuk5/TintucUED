@@ -16,14 +16,14 @@
 - Công cụ hỗ trợ: Summernote (Editor), Carbon (Time handling), Vite.
 4. Hướng dẫn cài đặt và chạy dự án
 Bước 1: Tải mã nguồn vào terminal
-git clone https://github.com/CamTuk5/TrangTinTucDaTacGia.git
-cd TrangTinTucDaTacGia
+- git clone https://github.com/CamTuk5/TrangTinTucDaTacGia.git
+- cd TrangTinTucDaTacGia
 Bước 2: Cài đặt các thư viện cần thiết
-composer install
-npm install
+- composer install
+- npm install
 Bước 3: Cấu hình môi trường
-Tạo cơ sở dữ liệu MySQL có tên: tintucued.
+- Tạo cơ sở dữ liệu MySQL có tên: tintucued.
 Bước 4: Khởi tạo dữ liệu
-php artisan migrate
+- php artisan migrate
 Bước 5: Khởi chạy dự án
-php artisan serve
+- php artisan serve
