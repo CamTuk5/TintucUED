@@ -16,8 +16,8 @@
 - Công cụ hỗ trợ: Summernote (Editor), Carbon (Time handling), Vite.
 4. Hướng dẫn cài đặt và chạy dự án
 Bước 1: Tải mã nguồn vào terminal
-- git clone https://github.com/CamTuk5/TrangTinTucDaTacGia.git
-- cd TrangTinTucDaTacGia
+- git clone https://github.com/CamTuk5/TintucUED.git
+- cd TintucUED
 Bước 2: Cài đặt các thư viện cần thiết
 - composer install
 - npm install
